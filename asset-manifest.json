@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/headPhones-react-tailwind/static/css/main.5da1cd5c.css",
+    "main.js": "/headPhones-react-tailwind/static/js/main.6a297b92.js",
+    "static/media/headphone4.png": "/headPhones-react-tailwind/static/media/headphone4.9dcdc5fcedd1f23f90e4.png",
+    "static/media/headphone-CY2fcZLy.png": "/headPhones-react-tailwind/static/media/headphone-CY2fcZLy.8fea910002f295b1030e.png",
+    "static/media/headphone2-DHQ3ooWG.png": "/headPhones-react-tailwind/static/media/headphone2-DHQ3ooWG.e6c032a3b472b657ea7c.png",
+    "static/media/headphone3-C5p0CIOf.png": "/headPhones-react-tailwind/static/media/headphone3-C5p0CIOf.0e72c832164825067b4a.png",
+    "static/media/obj2-BKIKMxxW.png": "/headPhones-react-tailwind/static/media/obj2-BKIKMxxW.1de1451a0a6cdd4824f3.png",
+    "static/media/blog2.jpg": "/headPhones-react-tailwind/static/media/blog2.b2def13e53c09350ec5b.jpg",
+    "static/media/blog4-DqioCLZL.jpg": "/headPhones-react-tailwind/static/media/blog4-DqioCLZL.3c479d5cc24388e47047.jpg",
+    "static/media/obj3-BYxqyNvR.png": "/headPhones-react-tailwind/static/media/obj3-BYxqyNvR.be65c68a5dedb72b95e9.png",
+    "static/media/blog1.jpg": "/headPhones-react-tailwind/static/media/blog1.29bd5ef27a413cfde173.jpg",
+    "static/media/obj1-BdlHnJ-o.png": "/headPhones-react-tailwind/static/media/obj1-BdlHnJ-o.2066a1182a7a6187209c.png",
+    "static/media/blog3-Bok-qOYs.jpg": "/headPhones-react-tailwind/static/media/blog3-Bok-qOYs.f6b24b0068c2775e4b42.jpg",
+    "static/media/credit-cards-JstMMRFE.webp": "/headPhones-react-tailwind/static/media/credit-cards-JstMMRFE.1286c81286ff46226507.webp",
+    "index.html": "/headPhones-react-tailwind/index.html",
+    "main.5da1cd5c.css.map": "/headPhones-react-tailwind/static/css/main.5da1cd5c.css.map",
+    "main.6a297b92.js.map": "/headPhones-react-tailwind/static/js/main.6a297b92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da1cd5c.css",
+    "static/js/main.6a297b92.js"
+  ]
+}
