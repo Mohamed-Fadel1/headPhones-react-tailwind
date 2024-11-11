@@ -7,20 +7,20 @@ export const Links = [
 
     {
         id :2 ,
-        name:"Categories",
-        link : "#categories"
+        name:"Services",
+        link : "#services"
     } ,
 
     {
         id :3 ,
-        name:"Blog",
-        link : "#blog"
+        name:"About",
+        link : "#about"
     } ,
 
     {
         id :4 ,
-        name:"About",
-        link : "#about"
+        name:"Blog",
+        link : "#blog"
     } ,
 
     {

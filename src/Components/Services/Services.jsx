@@ -23,7 +23,7 @@ const Services = () => {
 
     return (
         <>
-            <div className='bg-gray-100'>
+            <div id='services' className='bg-gray-100'>
                 <div className="container text-center py-24">
                     <motion.h1
                         variants={fadeUp(0.2)}

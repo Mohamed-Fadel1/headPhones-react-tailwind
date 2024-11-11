@@ -10,7 +10,7 @@ const NavBar = () => {
     const [open , setOpen] = useState(false)
   return (
     <>
-      <nav className='bg-secondary'>
+      <nav className='bg-secondary sticky top-0 z-20'>
         <div className="container py-8 flex items-center justify-between">
 
             <div>
@@ -51,7 +51,7 @@ const NavBar = () => {
 
                                 </UpdateFollower>
             </div>
-            <MdMenu onClick={()=>{setOpen(!open)}} className='text-gray-200 text-3xl cursor-pointer lg:hidden'/>
+            <MdMenu onClick={()=>{setOpen(!open)}} className='text-gray-200 text-3xl cursor-pointer lg:hidden z-50'/>
         </div>
       </nav>
     

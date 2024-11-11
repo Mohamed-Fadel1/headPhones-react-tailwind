@@ -15,7 +15,7 @@ const Blog = () => {
 
   return (
     <>
-      <div className="container py-20 bg-gray-100">
+      <div id="blog" className="container py-20 bg-gray-100">
         <div className="text-center">
           <h2 className="text-4xl font-semibold mb-8">Blogs</h2>
         </div>

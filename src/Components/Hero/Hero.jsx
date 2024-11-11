@@ -39,7 +39,7 @@ const Hero = () => {
 
   return (
     <>
-      <div className="bg-secondary py-20">
+      <div id="home" className="bg-secondary py-20">
         <div className="container flex flex-col md:flex-row justify-between space-y-4">
           <div className="md:w-1/2 text-center md:text-left ">
             <div className="mb-20">

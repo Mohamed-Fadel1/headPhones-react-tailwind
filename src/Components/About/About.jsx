@@ -1,6 +1,6 @@
 import React from 'react'
 import aboutImg from "../../assets/headphone4.png";
-import { delay, motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 const About = () => {
     const fadeUp = (delay)=>{
@@ -21,7 +21,7 @@ const About = () => {
     }
   return (
     <>
-      <div className="container py-24 flex flex-col gap-5 md:flex-row items-center justify-center space-y-4 md:space-y-0">
+      <div id='about' className="container py-24 flex flex-col gap-5 md:flex-row items-center justify-center space-y-4 md:space-y-0">
 
         <div className='md:w-1/2 mb-5 md:mb-0'>
             <motion.img

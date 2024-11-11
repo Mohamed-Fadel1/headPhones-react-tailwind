@@ -36,7 +36,7 @@ const Footer = () => {
 
   return (
     <>
-      <div className="container  bg-primary">
+      <div id='contact' className="container  bg-primary">
 
        <div className=' text-gray-100 py-12 gap-20 grid md:grid-cols-3'>
        <motion.div
